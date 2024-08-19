@@ -9,6 +9,5 @@ La "Landing Zone" est une infrastructure pré-configurée pour déployer des res
 - Définition et déploiement d'une infrastructure cloud sécurisée
 - Utilisation de Terraform pour la gestion de l'infrastructure
 - Orchestration des déploiements avec Azure DevOps
-- Automatisation des configurations avec Ansible
 - Surveillance et gestion de la sécurité des ressources cloud
 
